@@ -1151,6 +1151,14 @@
       "created_at": "2026-10-15T06:15:55Z",
       "repoId": 229407566,
       "pullRequestNo": 7720
+    },
+    {
+      "name": "brenzi-agent",
+      "id": 346870783,
+      "comment_id": 6437425285,
+      "created_at": "2026-10-27T08:43:25Z",
+      "repoId": 229407566,
+      "pullRequestNo": 7889
     }
   ]
 }
